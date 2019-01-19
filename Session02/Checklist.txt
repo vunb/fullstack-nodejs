@@ -1,0 +1,7 @@
+﻿1. Nhắc lại ES6, kiểm tra các kiểu dữ liệu cơ bản, cấu trúc điều khiển và vòng lặp
+ -> https://devhints.io/es6
+ - Hỏi từng học viên về es6, chọn 1 chủ đề bất kì, có vướng mắc gì không?
+ - Đã thực hành như nào?
+2. Học về Angular cli (học 60 phút, 15 phút networking) - 09h00 - 10h00
+3. Học về TypeScript (học 30 - 45 phút)
+4. 30 phút thực hành - xây dựng giao diện 
