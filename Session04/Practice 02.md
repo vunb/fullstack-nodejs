@@ -1,7 +1,8 @@
 TODO
 ====
 
-1. Thao tác với API Service sử dụng HttpClient
-2. Thực hành các thao tác CURD: GET, POST, PUT, DELETE
-3. Hiển thị danh sách TODO list từ API
-  * https://node-todos.herokuapp.com/api/todos
+1. Tạo trang ứng dụng có định tuyến trang: Home, About
+2. Tạo form nhận thông tin nhập vào từ người dùng và alert: Ví dụ là đầu việc cần thực hiện
+3. Kết hợp `ngModel`, `ngFor` để hiển thị các đầu việc mà người dùng nhập vào
+
+![ToDo Application](./Todo-List.png "Giao diện ứng dụng ToDo App")
