@@ -206,13 +206,15 @@ Procfile    text
 # Project binary
 *.sln    binary
 *.dll    binary
-*.doc    binary
-*.docx   binary
-*.xls    binary
-*.xlsx   binary
-*.resx   binary
-*.tt     binary
 
 # No text automatically
 /dist/* -text
 /docs/* -text
+*.doc   -text
+*.docx  -text
+*.xls   -text
+*.xlsx  -text
+*.ppt   -text
+*.pptx  -text
+*.resx  -text
+*.tt    -text
