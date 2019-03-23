@@ -1,3 +1,6 @@
 [submodule "lab/frontend-angular"]
 	path = lab/frontend-angular
 	url = git@github.com:vunb/frontend-angular.git
+[submodule "lab/backend-nodejs"]
+	path = lab/backend-nodejs
+	url = git@github.com:vunb/backend-nodejs.git

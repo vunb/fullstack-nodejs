@@ -1,0 +1,29 @@
+{
+  "name": "node-express-app",
+  "version": "1.0.0",
+  "description": "First express application",
+  "main": "http-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node express-server.js",
+    "dev": "nodemon express-server.js",
+    "tsc": "tsc",
+    "start:dev": "ts-node-dev --respawn --transpileOnly ./app.ts",
+    "start:prod": "tsc && node ./dist/app.js",
+    "build": "tsc"
+  },
+  "author": "vunb",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "@types/express": "^4.16.1",
+    "@types/node": "^11.11.3",
+    "nodemon": "^1.18.10",
+    "ts-node": "^8.0.3",
+    "ts-node-dev": "^1.0.0-pre.32",
+    "typescript": "^3.3.3333"
+  }
+}
